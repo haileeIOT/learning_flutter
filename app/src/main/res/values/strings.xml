@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">My</string>
+    <string name="channel_name">Chanel1 1</string>
+    <string name="channel_description">this is Chanel 1</string>
+    <string name="n_s_i">Đèn</string>
+    <string name="motor">MOTOR</string>
+    <string name="qu_t">QUẠT</string>
+    <string name="nhi_t">Nhiệt độ:</string>
+    <string name="m">Độ ẩm:</string>
+    <string name="di_n_t_ch">diện tích:</string>
+    <string name="lo_i_ph_n">Loại phân</string>
+    <string name="l_ng_b_n_n_kg_s_o">Lượng bón\n (kg/sào)</string>
+    <string name="b_n_l_t_n">Bón lót\n(%)</string>
+    <string name="b_n_th_c_n">Bón thúc\n(%)</string>
+    <string name="ph_n_h_u_c_n_ho_i_m_c">phân hữu cơ \nủ hoại mục</string>
+    <string name="ph_n_h_u_c_n_vi_sinh">phân hữu cơ \n vi sinh</string>
+    <string name="m_ure">Đạm ure</string>
+    <string name="super_l_n">Super lân</string>
+    <string name="kali_sunlfat">Kali sunlfat</string>
+    <string name="npk">NPK</string>
+    <string name="gi_i_thi_u">giới thiệu</string>
+    <string name="todo">TODO</string>
+    <string name="dsuoi">Đèn sưởi</string>
+    <string name="ch_o_m_ng_b_n_n_v_i_n_ng_tr_i_h_ng_minh">CHÀO MỪNG BẠN ĐẾN VỚI NÔNG TRẠI HÔNG MINH</string>
+    <string name="nh_k_nh">Nhà kính</string>
+    <string name="ao">Ao</string>
+
+</resources>
